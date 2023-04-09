@@ -1,4 +1,4 @@
-class article {
+class Article {
     static HTMLToText(h) {
         return new String(h).
             replace(/<\/p>/g, "\n\n").

@@ -1,13 +1,13 @@
-# Penyo Blog DB
+# Penyo Portal RD
 
-Penyo Blog DB 是一个基于 Penyo DB 的特化形式开发的非关系型数据库。采用了 MC（模型-控制分离）设计，以做到尽可能简化模块设计。
+Penyo Portal RD 是 Penyo Portal 存储在 MongoDB 中的 raw data。
 
 ## 表设计
 
 |表名|描述|
 |-|-|
-|articles|文章表。以对象作为记录，存储文章的结构化信息。|
-|slogans|标语表。以字符串作为记录，存储标语的值。|
+|articles|文章表。|
+|slogans|标语表。|
 
 *文章的记录：*
 
@@ -15,13 +15,10 @@ Penyo Blog DB 是一个基于 Penyo DB 的特化形式开发的非关系型数�
 {
     "id": "示例ID",
     "title": "示例标题",
-    "time": "1970/1/1",
-    "category": [
-        "主题长文章",
-        "随笔杂谈",
-        "评论",
-        "技术参考"
-    ],
+    "time": {
+        "$date": "1970-01-01T00:00:00.000+00:00"
+    },
+    "category": "主题长文章|随笔杂谈|评论|技术参考",
     "body": "<p>示例正文。</p>"
 }
 ```
@@ -29,5 +26,7 @@ Penyo Blog DB 是一个基于 Penyo DB 的特化形式开发的非关系型数�
 *标语的记录：*
 
 ```json
-"示例标语。"
+{
+    "value": "示例标语。"
+}
 ```

@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "64d46bfee1aeb71099fbc384"
+  },
+  "category": "figure",
+  "name": "スーパープレミアムフィギュア マギアレコード 魔法少女まどか☆マギカ外伝 鹿目まどか",
+  "subtitle": "我......根本就不需要绝望。",
+  "description": "这么多年过去了，还是那么喜欢小圆。",
+  "picture": {
+    "url": "https://pic.imgdb.cn/item/64d4b40a1ddac507ccce8885.png"
+  },
+  "detail": {
+    "url": "https://www.hpoi.net/hobby/64070"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d46bfee1aeb71099fbc385"
+  },
+  "category": "figure",
+  "name": "ウマ娘 プリティーダービー トウカイテイオー フィギュア",
+  "subtitle": "梦想就是要展示的！",
+  "description": "可爱与实力兼具！",
+  "picture": {
+    "url": "https://pic.imgdb.cn/item/64d4b40a1ddac507ccce87bf.png"
+  },
+  "detail": {
+    "url": "https://www.hpoi.net/hobby/71031"
+  }
+}]

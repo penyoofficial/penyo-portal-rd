@@ -8,6 +8,7 @@ Penyo Portal RD 是 Penyo Portal 存储在 MongoDB 中的 raw data。
 |-|-|
 |articles|文章表。|
 |collections|收藏品表。|
+|projects|项目表。|
 
 *文章的记录：*
 
@@ -31,6 +32,21 @@ Penyo Portal RD 是 Penyo Portal 存储在 MongoDB 中的 raw data。
     "name": "示例名称",
     "subtitle": "示例副标题",
     "description": "示例描述",
+    "picture": {
+        "url": "./sample.jpg"
+    },
+    "detail": {
+        "url": "https://example.com"
+    }
+}
+```
+
+*项目的记录：*
+
+```json
+{
+    "name": "随机事件发生器",
+    "description": "为统计学或社会学服务的简单工具包。",
     "picture": {
         "url": "./sample.jpg"
     },

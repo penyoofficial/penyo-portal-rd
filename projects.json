@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "64d5e0ff3d9069a2136b0b66"
+  },
+  "name": "Penyo DB",
+  "description": "一个基于 TypeScript 的 NoSQL 数据库。",
+  "picture": {
+    "url": "//th.bing.com/th/id/R.869a490e800b4421492d552ee2d29ddf?rik=JoD6X6ezVRwdvQ&riu=http%3a%2f%2fpmo065e85.pic1.ysjianzhan.cn%2fupload%2f1.jpg&ehk=WIiTfqkm7%2bOQAdGGPmuuHTmEiX6%2fUxUyzsPUtfmchag%3d&risl=&pid=ImgRaw&r=0"
+  },
+  "detail": {
+    "url": "//github.com/penyoofficial/penyo-db"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d5e0ff3d9069a2136b0b67"
+  },
+  "name": "随机事件发生器",
+  "description": "为统计学或社会学服务的简单工具包。",
+  "picture": {
+    "url": "//pic4.zhimg.com/v2-83921753a69edbc647f884c1950d82da_1440w.jpg?source=172ae18b"
+  },
+  "detail": {
+    "url": "//github.com/penyoofficial/random-event-generator"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d5e0ff3d9069a2136b0b68"
+  },
+  "name": "氰·课程表",
+  "description": "支持 Wallpaper Engine 的桌面课程表。",
+  "picture": {
+    "url": "//th.bing.com/th/id/R.90c8eee166a07401222f677cbd0059bc?rik=Pyul8FC4Zo8TLg&riu=http%3a%2f%2fseopic.699pic.com%2fphoto%2f50062%2f6597.jpg_wh1200.jpg&ehk=xzRtYErlVAxRPf2lH4S%2bMPx8tgkJVPFAz6jmgd5ZMuk%3d&risl=&pid=ImgRaw&r=0"
+  },
+  "detail": {
+    "url": "//github.com/penyoofficial/cyanidation"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d5e0ff3d9069a2136b0b69"
+  },
+  "name": "追逐排行榜",
+  "description": "数据可视化，差距显式化。",
+  "picture": {
+    "url": "//img.zcool.cn/community/01ad7558eca91ba8012049efe32c5b.png@1280w_1l_2o_100sh.png"
+  },
+  "detail": {
+    "url": "//github.com/penyoofficial/billboard"
+  }
+}]

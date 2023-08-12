@@ -1,0 +1,738 @@
+[{
+  "_id": {
+    "$oid": "64d74581447828ee79837952"
+  },
+  "name": "ロストワンの号哭",
+  "translatedName": "Lost One 的号哭",
+  "originalSinger": "Neru/鏡音リン",
+  "releaseDate": {
+    "$date": "2022-12-12T00:00:00.000Z"
+  },
+  "urls": [
+    [
+      "netease",
+      ""
+    ],
+    [
+      "bilibili",
+      ""
+    ]
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d74581447828ee79837953"
+  },
+  "name": "权御天下",
+  "originalSinger": "洛天依",
+  "releaseDate": {
+    "$date": "2022-12-11T00:00:00.000Z"
+  },
+  "urls": [
+    [
+      "netease",
+      "https://music.163.com/song?id=2005883079"
+    ],
+    [
+      "bilibili",
+      ""
+    ]
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d74581447828ee79837954"
+  },
+  "name": "Gee",
+  "originalSinger": "少女时代",
+  "releaseDate": {
+    "$date": "2022-12-11T00:00:00.000Z"
+  },
+  "urls": [
+    [
+      "netease",
+      ""
+    ],
+    [
+      "bilibili",
+      ""
+    ]
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d74581447828ee79837955"
+  },
+  "name": "阳光彩虹小白马",
+  "originalSinger": "大张伟",
+  "releaseDate": {
+    "$date": "2022-12-10T00:00:00.000Z"
+  },
+  "urls": [
+    [
+      "netease",
+      "https://music.163.com/song?id=2005670279"
+    ],
+    [
+      "bilibili",
+      ""
+    ]
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d74581447828ee79837956"
+  },
+  "name": "ADAMAS",
+  "originalSinger": "LiSA",
+  "releaseDate": {
+    "$date": "2022-12-10T00:00:00.000Z"
+  },
+  "urls": [
+    [
+      "netease",
+      "https://music.163.com/song?id=2005676968"
+    ],
+    [
+      "bilibili",
+      ""
+    ]
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d74581447828ee79837957"
+  },
+  "name": "Lucky Comes True!",
+  "originalSinger": "新田ひより",
+  "releaseDate": {
+    "$date": "2022-12-09T00:00:00.000Z"
+  },
+  "urls": [
+    [
+      "netease",
+      "https://music.163.com/song?id=2005403599"
+    ],
+    [
+      "bilibili",
+      ""
+    ]
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d74581447828ee79837958"
+  },
+  "name": "太陽系デスコ",
+  "translatedName": "太阳系 Disco",
+  "originalSinger": "ナユタン星人/初音ミク",
+  "releaseDate": {
+    "$date": "2022-12-09T00:00:00.000Z"
+  },
+  "urls": [
+    [
+      "netease",
+      "https://music.163.com/song?id=2005410681"
+    ],
+    [
+      "bilibili",
+      ""
+    ]
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d74581447828ee79837959"
+  },
+  "name": "気ままな天使たち",
+  "translatedName": "随心所欲的天使们",
+  "originalSinger": "わたてん☆5",
+  "releaseDate": {
+    "$date": "2022-10-19T00:00:00.000Z"
+  },
+  "urls": [
+    [
+      "netease",
+      "https://music.163.com/song?id=1990738187"
+    ],
+    [
+      "bilibili",
+      ""
+    ]
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d74581447828ee7983795a"
+  },
+  "name": "残酷な天使のテーゼ",
+  "translatedName": "残酷天使的行动纲领",
+  "originalSinger": "高橋洋子",
+  "releaseDate": {
+    "$date": "2022-10-19T00:00:00.000Z"
+  },
+  "urls": [
+    [
+      "netease",
+      "https://music.163.com/song?id=1990742736"
+    ],
+    [
+      "bilibili",
+      ""
+    ]
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d74581447828ee7983795b"
+  },
+  "name": "群青",
+  "originalSinger": "YOASOBI",
+  "releaseDate": {
+    "$date": "2022-06-08T00:00:00.000Z"
+  },
+  "urls": [
+    [
+      "netease",
+      "https://music.163.com/song?id=1954235400"
+    ],
+    [
+      "bilibili",
+      ""
+    ]
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d74581447828ee7983795c"
+  },
+  "name": "Butter-Fly",
+  "originalSinger": "和田光司",
+  "releaseDate": {
+    "$date": "2022-05-31T00:00:00.000Z"
+  },
+  "urls": [
+    [
+      "netease",
+      "https://music.163.com/song?id=1952358024"
+    ],
+    [
+      "bilibili",
+      "https://www.bilibili.com/video/BV1F44y157ko"
+    ]
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d74581447828ee7983795d"
+  },
+  "name": "夜に駆ける",
+  "translatedName": "向夜晚奔去",
+  "originalSinger": "YOASOBI",
+  "releaseDate": {
+    "$date": "2022-05-31T00:00:00.000Z"
+  },
+  "urls": [
+    [
+      "netease",
+      "https://music.163.com/song?id=1952356140"
+    ],
+    [
+      "bilibili",
+      "https://www.bilibili.com/video/BV1FY4y1v7hm"
+    ]
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d74581447828ee7983795e"
+  },
+  "name": "adrenaline!!!",
+  "originalSinger": "TrySail",
+  "releaseDate": {
+    "$date": "2021-12-31T00:00:00.000Z"
+  },
+  "urls": [
+    [
+      "netease",
+      "https://music.163.com/song?id=1908140589"
+    ],
+    [
+      "bilibili",
+      "https://www.bilibili.com/video/BV1K44y157TR"
+    ]
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d74581447828ee7983795f"
+  },
+  "name": "Counting Stars",
+  "originalSinger": "OneRepublic",
+  "releaseDate": {
+    "$date": "2021-12-31T00:00:00.000Z"
+  },
+  "urls": [
+    [
+      "netease",
+      "https://music.163.com/song?id=1908140515"
+    ],
+    [
+      "bilibili",
+      "https://www.bilibili.com/video/BV1FY4y1v7hm"
+    ]
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d74581447828ee79837960"
+  },
+  "name": "ぼなぺてぃーと♡S",
+  "translatedName": "美味大餐献给您！",
+  "originalSinger": "和氣あず未/鬼頭明里/春野杏",
+  "releaseDate": {
+    "$date": "2021-10-22T00:00:00.000Z"
+  },
+  "urls": [
+    [
+      "netease",
+      "https://music.163.com/song?id=1888749366"
+    ],
+    [
+      "bilibili",
+      "https://www.bilibili.com/video/BV1SR4y1t7ne"
+    ]
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d74581447828ee79837961"
+  },
+  "name": "我和你",
+  "originalSinger": "唐宁",
+  "releaseDate": {
+    "$date": "2021-10-16T00:00:00.000Z"
+  },
+  "urls": [
+    [
+      "netease",
+      "https://music.163.com/song?id=1887369380"
+    ],
+    [
+      "bilibili",
+      "https://www.bilibili.com/video/BV1VL4y1B7ro"
+    ]
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d74581447828ee79837962"
+  },
+  "name": "Legends Never Die",
+  "originalSinger": "Against the Current",
+  "releaseDate": {
+    "$date": "2021-10-16T00:00:00.000Z"
+  },
+  "urls": [
+    [
+      "netease",
+      "https://music.163.com/song?id=1887382480"
+    ],
+    [
+      "bilibili",
+      "https://www.bilibili.com/video/BV1of4y1u7cB"
+    ]
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d74581447828ee79837963"
+  },
+  "name": "ねぇねぇねぇ。",
+  "translatedName": "呐呐呐。",
+  "originalSinger": "ピノキオP/初音ミク/鏡音リン",
+  "releaseDate": {
+    "$date": "2021-09-10T00:00:00.000Z"
+  },
+  "urls": [
+    [
+      "netease",
+      "https://music.163.com/song?id=1877043309"
+    ],
+    [
+      "bilibili",
+      "https://www.bilibili.com/video/BV1C44y1t7fv"
+    ]
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d74581447828ee79837964"
+  },
+  "name": "XY&Z",
+  "originalSinger": "松本梨香",
+  "releaseDate": {
+    "$date": "2021-09-01T00:00:00.000Z"
+  },
+  "urls": [
+    [
+      "netease",
+      "https://music.163.com/song?id=1874723685"
+    ],
+    [
+      "bilibili",
+      "https://www.bilibili.com/video/BV1a44y187zK"
+    ]
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d74581447828ee79837965"
+  },
+  "name": "only my railgun",
+  "originalSinger": "fripSide",
+  "releaseDate": {
+    "$date": "2021-09-01T00:00:00.000Z"
+  },
+  "urls": [
+    [
+      "netease",
+      "https://music.163.com/song?id=1874753690"
+    ],
+    [
+      "bilibili",
+      "https://www.bilibili.com/video/BV1664y1a7xq"
+    ]
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d74581447828ee79837966"
+  },
+  "name": "霜雪千年",
+  "originalSinger": "洛天依/乐正绫",
+  "releaseDate": {
+    "$date": "2021-08-15T00:00:00.000Z"
+  },
+  "urls": [
+    [
+      "netease",
+      "https://music.163.com/song?id=1869474352"
+    ],
+    [
+      "bilibili",
+      "https://www.bilibili.com/video/BV18o4y1U7L6"
+    ]
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d74581447828ee79837967"
+  },
+  "name": "桃源恋歌",
+  "originalSinger": "GARNiDELiA",
+  "releaseDate": {
+    "$date": "2021-08-14T00:00:00.000Z"
+  },
+  "urls": [
+    [
+      "netease",
+      "https://music.163.com/song?id=1869465596"
+    ],
+    [
+      "bilibili",
+      "https://www.bilibili.com/video/BV17b4y167Ff"
+    ]
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d74581447828ee79837968"
+  },
+  "name": "九九八十一",
+  "originalSinger": "乐正绫",
+  "releaseDate": {
+    "$date": "2021-02-12T00:00:00.000Z"
+  },
+  "urls": [
+    [
+      "netease",
+      "https://music.163.com/song?id=1831366428"
+    ],
+    [
+      "bilibili",
+      "https://www.bilibili.com/video/BV1bp4y1p7K7"
+    ]
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d74581447828ee79837969"
+  },
+  "name": "威风堂々",
+  "translatedName": "威风堂堂",
+  "originalSinger": "梅とら/巡音ルカ/初音ミク/GUMI/IA/鏡音リン",
+  "releaseDate": {
+    "$date": "2021-01-01T00:00:00.000Z"
+  },
+  "urls": [
+    [
+      "netease",
+      "https://music.163.com/song?id=1807099203"
+    ],
+    [
+      "bilibili",
+      "https://www.bilibili.com/video/BV1vy4y1i7sm"
+    ]
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d74581447828ee7983796a"
+  },
+  "name": "可愛くなりたい",
+  "translatedName": "想变得可爱",
+  "originalSinger": "HoneyWorks/雨宮天",
+  "releaseDate": {
+    "$date": "2020-12-12T00:00:00.000Z"
+  },
+  "urls": [
+    [
+      "netease",
+      "https://music.163.com/song?id=1803971461"
+    ],
+    [
+      "bilibili",
+      "https://www.bilibili.com/video/BV1st4y1Y7Be"
+    ]
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d74581447828ee7983796b"
+  },
+  "name": "旅の途中",
+  "originalSinger": "清浦夏実",
+  "releaseDate": {
+    "$date": "2020-11-16T00:00:00.000Z"
+  },
+  "urls": [
+    [
+      "netease",
+      "https://music.163.com/song?id=1495719414"
+    ],
+    [
+      "bilibili",
+      "https://www.bilibili.com/video/BV1PK4y1f7wd"
+    ]
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d74581447828ee7983796c"
+  },
+  "name": "千本桜",
+  "translatedName": "千本樱",
+  "originalSinger": "黒うさP/初音ミク",
+  "releaseDate": {
+    "$date": "2020-11-08T00:00:00.000Z"
+  },
+  "urls": [
+    [
+      "netease",
+      "https://music.163.com/song?id=1495399790"
+    ],
+    [
+      "bilibili",
+      "https://www.bilibili.com/video/BV1Xy4y1r7sj"
+    ]
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d74581447828ee7983796d"
+  },
+  "name": "六兆年と一夜物語",
+  "translatedName": "六兆年零一夜物语",
+  "originalSinger": "KEMU VOXX/IA",
+  "releaseDate": {
+    "$date": "2020-08-15T00:00:00.000Z"
+  },
+  "urls": [
+    [
+      "netease",
+      "https://music.163.com/song?id=1479364316"
+    ],
+    [
+      "bilibili",
+      "https://www.bilibili.com/video/BV1TT4y177uh"
+    ]
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d74581447828ee7983796e"
+  },
+  "name": "一般男性脱糞シリーズ",
+  "translatedName": "普通的脱◯系男子",
+  "originalSinger": "ゆゆうた",
+  "releaseDate": {
+    "$date": "2020-08-11T00:00:00.000Z"
+  },
+  "urls": [
+    [
+      "netease",
+      ""
+    ],
+    [
+      "bilibili",
+      "https://www.bilibili.com/video/BV19D4y1U7pd"
+    ]
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d74581447828ee7983796f"
+  },
+  "name": "東京テディベア",
+  "translatedName": "东京泰迪熊",
+  "originalSinger": "Neru/鏡音リン",
+  "releaseDate": {
+    "$date": "2020-08-05T00:00:00.000Z"
+  },
+  "urls": [
+    [
+      "netease",
+      ""
+    ],
+    [
+      "bilibili",
+      "https://www.bilibili.com/video/BV1Ki4y1G7dF"
+    ]
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d74581447828ee79837970"
+  },
+  "name": "紅蓮華",
+  "translatedName": "红莲华",
+  "originalSinger": "LiSA",
+  "releaseDate": {
+    "$date": "2020-04-07T00:00:00.000Z"
+  },
+  "urls": [
+    [
+      "netease",
+      "https://music.163.com/song?id=1479365311"
+    ],
+    [
+      "bilibili",
+      "https://www.bilibili.com/video/BV1st4y1U7EK"
+    ]
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d74581447828ee79837971"
+  },
+  "name": "MEGALOVANIA",
+  "translatedName": "狂妄之人",
+  "originalSinger": "Toby Fox",
+  "releaseDate": {
+    "$date": "2020-04-04T00:00:00.000Z"
+  },
+  "urls": [
+    [
+      "netease",
+      "https://music.163.com/song?id=1479623940"
+    ],
+    [
+      "bilibili",
+      "https://www.bilibili.com/video/BV1KC4y1s7cc"
+    ]
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d74581447828ee79837972"
+  },
+  "name": "Magia",
+  "originalSinger": "Kalafina",
+  "releaseDate": {
+    "$date": "2020-04-02T00:00:00.000Z"
+  },
+  "urls": [
+    [
+      "netease",
+      "https://music.163.com/song?id=1479623951"
+    ],
+    [
+      "bilibili",
+      "https://www.bilibili.com/video/BV1X64y1M7AV"
+    ]
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d74581447828ee79837973"
+  },
+  "name": "恋爱サーキュレーション",
+  "translatedName": "恋爱循环",
+  "originalSinger": "花澤香菜",
+  "releaseDate": {
+    "$date": "2020-04-02T00:00:00.000Z"
+  },
+  "urls": [
+    [
+      "netease",
+      "https://music.163.com/song?id=1479629261"
+    ],
+    [
+      "bilibili",
+      "https://www.bilibili.com/video/BV1M64y1u7Ek"
+    ]
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d74581447828ee79837974"
+  },
+  "name": "回レ！雪月花",
+  "translatedName": "旋转吧！雪月花",
+  "originalSinger": "原田ひとみ/茅野愛衣/小倉唯",
+  "releaseDate": {
+    "$date": "2020-03-17T00:00:00.000Z"
+  },
+  "urls": [
+    [
+      "netease",
+      "https://music.163.com/song?id=1479365314"
+    ],
+    [
+      "bilibili",
+      "https://www.bilibili.com/video/BV167411o7sE"
+    ]
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d74581447828ee79837975"
+  },
+  "name": "白金ディスコ",
+  "translatedName": "白金 Disco",
+  "originalSinger": "井口裕香",
+  "releaseDate": {
+    "$date": "2020-03-16T00:00:00.000Z"
+  },
+  "urls": [
+    [
+      "netease",
+      "https://music.163.com/song?id=1479623950"
+    ],
+    [
+      "bilibili",
+      "https://www.bilibili.com/video/BV1j7411f71Y"
+    ]
+  ]
+}]
